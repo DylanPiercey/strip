@@ -1,4 +1,4 @@
-## strip [![Build Status](https://travis-ci.org/azer/strip.png)](https://travis-ci.org/azer/strip)
+## strip [![Build Status](https://travis-ci.org/dylanpiercey/strip.png)](https://travis-ci.org/dylanpiercey/strip)
 
 Strips HTML tags.
 

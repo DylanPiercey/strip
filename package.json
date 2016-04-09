@@ -1,6 +1,6 @@
 {
   "name": "strip",
-  "version": "0.0.7",
+  "version": "3.0.0",
   "description": "Strip HTML Tags",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "tap": "~0.4.6"
   },
   "repository": {
-    "url": "git@github.com:azer/strip.git",
+    "url": "git@github.com:DylanPiercey/strip.git",
     "type": "git"
   },
   "author": "Azer Koçulu <azer@kodfabrik.com>",
